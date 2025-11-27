@@ -32,7 +32,3 @@ This website showcases my projects, skills, achievements, and journey as a devel
 - **VS Code**
 - **Netlify Deployment**
 
----
-
-## 📁 Folder Structure
-
