@@ -291,7 +291,7 @@ const App = () => {
                   View Projects
                 </a>
                 <a
-                  href="https://drive.google.com/file/d/1cl9a6K4oh64RGX4nMUF-v9qK6tTxVQrd/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1yHsFdLZ4W1XZdDsomb2QKQ4Nz17OmLdw/view?usp=sharing"
                   target="_blank"
                   rel="noreferrer"
                   className="btn btn-outline-glow"
